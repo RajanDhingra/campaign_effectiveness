@@ -1,4 +1,4 @@
-# Increasing the Campaign Effectiveness
+# Increase the Campaign Effectiveness
 This study is of a Portuguese banking institution’s telemarketing campaign wherein our aim is to build a predictive model that will determine the major contributors to customers investing in term-deposits.
 
 Determining these factors will help the banking institution to take actionable steps and maximize the probability of reaching the right clients. 
